@@ -3,21 +3,21 @@
     "id": 1
     "title": "Onda de lesões",
     "description": "Onda de lesões desfalca seleções nas competições internacionais do futebol feminino.",
-    "image": "https://s2.glbimg.com/ZGH1fohEBaOfc9v7_BzlpDcZjbU=/0x0:1080x608/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/L/k/GRewM7ShqSybZZPBdJzg/carrossel-lesao.jpg",
+    "image": "https://raw.githubusercontent.com/SamGCM/matches-simulator-api/main/new-1.webp",
     "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/06/onda-de-lesoes-desfalca-selecoes-nas-competicoes-internacionais-do-futebol-feminino.ghtml",
   },
   {
     "id": 2
     "title": "Noruega goleia a Irlanda do Norte",
     "description": "Seleção nórdica leva vantagem sobre a Inglaterra no saldo de gols"  
-    "image": "https://s2.glbimg.com/eIBYFBZ7N134-i8XBxhXUZ3kX1w=/0x0:3334x2242/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/o/h/70WblgRomxyOOgR4q1rQ/2022-07-07t201557z-1512682490-up1ei771kaj42-rtrmadp-3-soccer-euro-nor-nir-report.jpg",
+    "image": "https://raw.githubusercontent.com/SamGCM/matches-simulator-api/main/new-2.webp",
     "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/07/noruega-goleia-a-irlanda-do-norte-pela-eurocopa-feminina.ghtml"
   },
   {
     "id": 3
     "title": "Campeonato Italiano terá primeira mulher árbitra",
     "description": "Maria Sole Ferrieri Caputi, de 32 anos, é promovida para atuar na primeira divisão do país"  
-    "image": "https://s2.glbimg.com/Htpee4UJXtRUcl9qPLNQBvTZJ98=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/s/d/yaZrxVQAuDpPlgxzyARQ/gettyimages-1363953881.jpg",
+    "image": "https://raw.githubusercontent.com/SamGCM/matches-simulator-api/main/new-3.webp",
     "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-italiano/noticia/2022/07/02/campeonato-italiano-tera-primeira-mulher-arbitra-na-proxima-temporada.ghtml"
   }
 ]
